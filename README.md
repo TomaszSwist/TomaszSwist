@@ -15,10 +15,7 @@
 - https://saigon.pl/
 - https://uslugiwodkangaz.pl
 
-
-
-
-The projects I created during my jurney of re-branding myself to work in IT can be seen in the repository below.
+<h3 align="center">The projects I created so far<br />during my jurney of re-branding myself to work in IT<br />can be seen in the repository below.</h3>
 
 <!---
 TomaszSwist/TomaszSwist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
