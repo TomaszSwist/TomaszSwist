@@ -15,6 +15,9 @@
 - https://saigon.pl/
 - https://uslugiwodkangaz.pl
 
+
+
+
 The projects I created during my jurney of re-branding myself to work in IT can be seen in the repository below.
 
 <!---
