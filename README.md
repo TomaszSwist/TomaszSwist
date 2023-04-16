@@ -3,7 +3,6 @@
 
 - 👀 I’m interested in **Frontend** (and **Full Stack** in the future).
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on **Frontend projects**.
 - 📫 You reach me: kontakt.tomaszswist@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
